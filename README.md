@@ -6,7 +6,7 @@ It display cached images to improve the performance of site.
 
 
 ## Technologies Used
-- python 3.11
+- python 3.12.5
 
 ## Project Setup Instructions
 1) git clone the repository 
